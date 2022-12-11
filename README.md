@@ -8,7 +8,7 @@ My name is Darin. It's a pleasure to meet you!
 ## About
 I am a senior Bioengineering undergraduate student at the University of California San Diego. My research focuses on machine learning and artifical intelligence in applications of healthcare. I currently research under Dr. Frank Talke in the [Talke Biomedical Device Lab](https://www.talkelab.ucsd.edu/) developing a surgical positioning platform for minimally invasive surgery. Concurrently, I also conduct research with Dr. Tzyy-Ping Jung at the [Swartz Center of Computational Neuroscience](https://sccn.ucsd.edu/) exploring transient changes in stress using EEG. 
 
-* 💓 I code everything I do in Python at MATLAB.
+* 💓 I code everything I do in Python and MATLAB.
 * 🌱 I’m currently exploring deep learning in MRI thresholding and imaging. 
     * Also (trying to) learn C++ on the side.
 * ⚡ Fun fact: I started uni as a mechanical engineer! 
