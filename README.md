@@ -2,6 +2,9 @@
 
 My name is Darin. It's a pleasure to meet you! 
 
+* You can view my [CV](https://darintsui.github.io/assets/pdfs/DarinTsui_CV.pdf) here.
+* For more information, check out my website here! https://darintsui.github.io/ 
+
 ## About
 I am a senior Bioengineering undergraduate student at the University of California San Diego. My research focuses on machine learning and artifical intelligence in applications of healthcare. I currently research under Dr. Frank Talke in the [Talke Biomedical Device Lab](https://www.talkelab.ucsd.edu/) developing a surgical positioning platform for minimally invasive surgery. Concurrently, I also conduct research with Dr. Tzyy-Ping Jung at the [Swartz Center of Computational Neuroscience](https://sccn.ucsd.edu/) exploring transient changes in stress using EEG. 
 
