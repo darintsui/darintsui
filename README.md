@@ -6,7 +6,7 @@ My name is Darin. It's a pleasure to meet you!
 * For more information, check out my website here! https://darintsui.github.io/ 
 
 ## About
-I am a senior Bioengineering undergraduate student at the University of California San Diego. My research focuses on machine learning and artifical intelligence in applications of healthcare. I currently research under Dr. Frank Talke in the [Talke Biomedical Device Lab](https://www.talkelab.ucsd.edu/) developing a surgical positioning platform for minimally invasive surgery. Concurrently, I also conduct research with Dr. Tzyy-Ping Jung at the [Swartz Center of Computational Neuroscience](https://sccn.ucsd.edu/) exploring transient changes in stress using EEG. 
+I am a senior Bioengineering undergraduate student at the University of California San Diego. My research focuses on machine learning and artifical intelligence in applications of healthcare. I currently research under Dr. Frank Talke in the [Talke Biomedical Device Lab](https://www.talkelab.ucsd.edu/) developing a surgical positioning platform for minimally invasive surgery. Concurrently, I also am exploring applications of machine learning in bioelectronic COVID-19 detection under Dr. Gert Cauwenberghs in the [Integrated Systems Neuroengineering Laboratory](https://isn.ucsd.edu/index.php).
 
 * 💓 I code everything I do in Python and MATLAB.
 * 🌱 I’m currently exploring deep learning in MRI thresholding and imaging. 
@@ -16,12 +16,13 @@ I am a senior Bioengineering undergraduate student at the University of Californ
 * 📫 Want to get in contact? Shoot me an email at <dtsui@ieee.org>
 
 ## Publications
-**Tsui, D.**, Khedkar, A., Jung, T., “Detection of subjective stress using asymmetry-based EEG recordings in students”,
-*2023 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, in
-progress.
 
-**Tsui, D.**, Jo, M., Nguyen, B., Ahadian, F., Talke, F., “Design of a surgical navigation system via positional tracking
-of fiducial markers”, *Journal of Advanced Mechanical Design, Systems, and Manufacturing*, under review.
+**Tsui, D.**, Melentyev, C., Rajan, A., Kumar, R., Talke, F., "An optical tracking approach to computer-assisted surgical navigation via. stereoscopic vision",
+*ASME 2023 32nd Conference on Information Storage and Processing System*, accepted.
+
+**Tsui, D.**, Downey, F., Navaneethan, S., et. al., "A machine learning approach to COVID-19 detection via graphene field-effect-transistor (GFET)", *2023 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*,	accepted.
+
+**Tsui, D.**, Jo, M., Nguyen, B., Ahadian, F., Talke, F., "Optical surgical navigation: a promising low-cost alternative", *2023 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*,	accepted.
 
 ## Presentations
 “Surgical Site Localization With Non-Invasive Skin Markers for Pain Management”, Center for Memory and Recording
