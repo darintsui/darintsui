@@ -18,7 +18,7 @@ I am a senior Bioengineering undergraduate student at the University of Californ
 ## Publications
 
 **Tsui, D.**, Melentyev, C., Rajan, A., Kumar, R., Talke, F., "An optical tracking approach to computer-assisted surgical navigation via. stereoscopic vision",
-*ASME 2023 32nd Conference on Information Storage and Processing System*, accepted.
+*ASME 2023 32nd Conference on Information Storage and Processing Systems*, accepted.
 
 **Tsui, D.**, Downey, F., Navaneethan, S., et. al., "A machine learning approach to COVID-19 detection via graphene field-effect-transistor (GFET)", *2023 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*,	accepted.
 
