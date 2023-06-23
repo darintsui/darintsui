@@ -7,7 +7,7 @@ My name is Darin. It's a pleasure to meet you!
 * For more information, check out my website [here](https://darintsui.github.io/)! 
 
 ## About
-I am a senior Bioengineering undergraduate student at the University of California San Diego. My research focuses on machine learning and artifical intelligence in applications of healthcare. I currently research under Dr. Frank Talke in the [Talke Biomedical Device Lab](https://www.talkelab.ucsd.edu/) developing a surgical positioning platform for minimally invasive surgery. Concurrently, I also am exploring applications of machine learning in bioelectronic COVID-19 detection under Dr. Gert Cauwenberghs in the [Integrated Systems Neuroengineering Laboratory](https://isn.ucsd.edu/index.php).
+I’m an incoming Ph.D. student at the Georgia Institute of Technology studying Electrical and Computer Engineering. I previously received my BS degree at the University of California San Diego in Bioengineering. I am currently working on developing artificial intelligence solutions in applications of bioinformatics with Dr. <a href="https://amirmohan.github.io/">Amirali Aghazadeh</a>. In my undergrad, I was designing a low-cost surgical navigation platform using computer vision under Dr. Frank Talke in the <a href="https://www.talkelab.ucsd.edu/">Talke Biomedical Device Lab</a>. I have also explored applications of machine learning in bioelectronic COVID-19 detection under Dr. Gert Cauwenberghs in the <a href="https://isn.ucsd.edu/index.php">Integrated Systems Neuroengineering Laboratory</a>.
 
 * 💓 I code everything I do in Python and MATLAB.
 * 🌱 I’m currently exploring deep learning in MRI thresholding and imaging. 
