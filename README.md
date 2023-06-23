@@ -3,7 +3,8 @@
 My name is Darin. It's a pleasure to meet you! 
 
 * You can view my [CV](https://darintsui.github.io/assets/pdfs/DarinTsui_CV.pdf) here.
-* For more information, check out my website here! https://darintsui.github.io/ 
+* You can view my [resume](https://darintsui.github.io/uploads/DarinTsui_Resume.pdf) here.
+* For more information, check out my website [here](https://darintsui.github.io/)! 
 
 ## About
 I am a senior Bioengineering undergraduate student at the University of California San Diego. My research focuses on machine learning and artifical intelligence in applications of healthcare. I currently research under Dr. Frank Talke in the [Talke Biomedical Device Lab](https://www.talkelab.ucsd.edu/) developing a surgical positioning platform for minimally invasive surgery. Concurrently, I also am exploring applications of machine learning in bioelectronic COVID-19 detection under Dr. Gert Cauwenberghs in the [Integrated Systems Neuroengineering Laboratory](https://isn.ucsd.edu/index.php).
